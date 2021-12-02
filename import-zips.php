@@ -1,5 +1,7 @@
 <?php
 
+require __DIR__ . "/vendor/autoload.php";
+
 $filename = 'https://media.mongodb.org/zips.json';
 $lines = file($filename, FILE_IGNORE_NEW_LINES);
 
