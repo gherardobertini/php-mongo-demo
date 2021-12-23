@@ -1,6 +1,6 @@
 # Php MongoDB Demo
 
-This demo resume principal method for PHP to work with Mongo DB
+This demo resumes principal method for PHP to work with Mongo DB
 
 # Install
 
@@ -8,4 +8,4 @@ This demo resume principal method for PHP to work with Mongo DB
 - cd php-mongo-demo
 - docker compose up -d
 - docker compose exec web composer install
-- open https://localhost
+- open http://localhost
